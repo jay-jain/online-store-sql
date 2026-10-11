@@ -3,7 +3,13 @@
 
 A command-line inventory management application built with Python and PostgreSQL. Users can view, add, update, and delete products, with inventory data stored in a PostgreSQL database.
 
+
 ## Demo
+
+Want to see the application in action? [**Watch the project demonstration video (Demo.mov)**](Demo.mov).
+
+The video demonstrates how to view products, add new products, update prices, and delete products using the command-line interface.
+
 
 ![Inventory Management Demo](demo.gif)
 
